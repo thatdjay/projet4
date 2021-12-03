@@ -1,4 +1,4 @@
-#include <wiringPi.h> //inclus la librairie wiringpi
+#include "wiringPi.h" //inclus la librairie wiringpi
 
 //librairies pour utiliser des strings
 #include <stdlib.h>
